@@ -2,6 +2,7 @@
 
 [![Downloads](https://static.pepy.tech/badge/robotframework-inilibrary)](https://pepy.tech/project/robotframework-inilibrary)
 [![Downloads](https://static.pepy.tech/badge/robotframework-inilibrary/month)](https://pepy.tech/project/robotframework-inilibrary)
+[![Downloads](https://static.pepy.tech/badge/robotframework-inilibrary/week)](https://pepy.tech/project/robotframework-inilibrary)
 
 This library allows you to load and manipulate INI files.
 
